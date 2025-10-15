@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\\u0437\u0430\u0449\u0438\u0442\u0430 \u0438\u043D\u0444\u044B\\2l\\",
+  "WorkspaceRootPath": "C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\inf_protect\\2l\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF9AEF1F-CFCE-433A-96DC-BF0ECACFC649}|2l.pyproj|C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\\u0437\u0430\u0449\u0438\u0442\u0430 \u0438\u043D\u0444\u044B\\2l\\_2l.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{EF9AEF1F-CFCE-433A-96DC-BF0ECACFC649}|2l.pyproj|C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\inf_protect\\2l\\_2l.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{EF9AEF1F-CFCE-433A-96DC-BF0ECACFC649}|2l.pyproj|solutionrelative:_2l.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_2l.py",
-              "DocumentMoniker": "C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\\u0437\u0430\u0449\u0438\u0442\u0430 \u0438\u043D\u0444\u044B\\2l\\_2l.py",
+              "DocumentMoniker": "C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\inf_protect\\2l\\_2l.py",
               "RelativeDocumentMoniker": "_2l.py",
-              "ToolTip": "C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\\u0437\u0430\u0449\u0438\u0442\u0430 \u0438\u043D\u0444\u044B\\2l\\_2l.py",
+              "ToolTip": "C:\\Users\\windk\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\PROTOCOL-14285676888\\7sem\\inf_protect\\2l\\_2l.py",
               "RelativeToolTip": "_2l.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAALEAAAAAAAAAAAApwKQAAAAHAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
               "WhenOpened": "2025-10-01T00:57:17.134Z",
               "EditorCaption": ""
